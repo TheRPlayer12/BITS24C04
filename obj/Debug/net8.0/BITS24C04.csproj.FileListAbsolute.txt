@@ -1,0 +1,15 @@
+C:\Users\TheRPlayer12\source\repos\BITS24C04\bin\Debug\net8.0\BITS24C04.exe
+C:\Users\TheRPlayer12\source\repos\BITS24C04\bin\Debug\net8.0\BITS24C04.deps.json
+C:\Users\TheRPlayer12\source\repos\BITS24C04\bin\Debug\net8.0\BITS24C04.runtimeconfig.json
+C:\Users\TheRPlayer12\source\repos\BITS24C04\bin\Debug\net8.0\BITS24C04.dll
+C:\Users\TheRPlayer12\source\repos\BITS24C04\bin\Debug\net8.0\BITS24C04.pdb
+C:\Users\TheRPlayer12\source\repos\BITS24C04\obj\Debug\net8.0\BITS24C04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheRPlayer12\source\repos\BITS24C04\obj\Debug\net8.0\BITS24C04.AssemblyInfoInputs.cache
+C:\Users\TheRPlayer12\source\repos\BITS24C04\obj\Debug\net8.0\BITS24C04.AssemblyInfo.cs
+C:\Users\TheRPlayer12\source\repos\BITS24C04\obj\Debug\net8.0\BITS24C04.csproj.CoreCompileInputs.cache
+C:\Users\TheRPlayer12\source\repos\BITS24C04\obj\Debug\net8.0\BITS24C04.sourcelink.json
+C:\Users\TheRPlayer12\source\repos\BITS24C04\obj\Debug\net8.0\BITS24C04.dll
+C:\Users\TheRPlayer12\source\repos\BITS24C04\obj\Debug\net8.0\refint\BITS24C04.dll
+C:\Users\TheRPlayer12\source\repos\BITS24C04\obj\Debug\net8.0\BITS24C04.pdb
+C:\Users\TheRPlayer12\source\repos\BITS24C04\obj\Debug\net8.0\BITS24C04.genruntimeconfig.cache
+C:\Users\TheRPlayer12\source\repos\BITS24C04\obj\Debug\net8.0\ref\BITS24C04.dll
